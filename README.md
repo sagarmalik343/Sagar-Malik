@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 ### 🌐 Connect with me:
-- 💼 Portfolio: [sagarmalik.dev](https://your-portfolio-link.com)
+- 💼 Portfolio: [sagarmalik.sagar malik](https://github.com/sagarmalik343/Sagar-Malik)
 - 📧 Email: mliksagar662@gmail.com.com
 - 📱 LinkedIn: [sagar malik](https://www.linkedin.com/in/sagar-malik-424744284)
 
